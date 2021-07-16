@@ -5,3 +5,5 @@ gitの練習
 gitの練習です
 
 aaa
+
+git diff
